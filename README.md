@@ -12,7 +12,7 @@
 &nbsp;&nbsp;&nbsp;:sparkles: &nbsp;Passionate about Data Analytics, Data Science and Artificial Intelligence.\
 &nbsp;&nbsp;&nbsp;:chart_with_upwards_trend: &nbsp;Currently working as a Data Scientist focused on Financial and Business Automation projects at [DEACERO](https://www.deacero.com/).\
 &nbsp;&nbsp;&nbsp;:computer:&nbsp; 3+ years of experience designing and building Data Products.\
-&nbsp;&nbsp;&nbsp;:rocket: &nbsp;On the way to become an Digital ArchiTECH designing solutions from automation to MLOps.\
+&nbsp;&nbsp;&nbsp;:rocket: &nbsp;On the way to become a Digital ArchiTECH designing solutions from automation to MLOps.\
 &nbsp;&nbsp;&nbsp;:satellite: &nbsp;Home Office from Mexico City.
 
 <p align="center">
