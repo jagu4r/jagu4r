@@ -1,6 +1,7 @@
 # Hi there! 👋 I'm Omar Méndez Andrade
 
 Data Scientist discovering insights and value through data | GCP Certified Professional Data Engineer in progress
+Now building with CursorAI
 
 ## About Me
 Experienced data scientist focused on leveraging AI and machine learning to drive business value. Passionate about transforming complex data into actionable insights and building scalable solutions.
